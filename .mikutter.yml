@@ -1,0 +1,10 @@
+---
+slug: mikutter_sub_parts_voter_multiline
+depends:
+  mikutter: "3.0.0.alpha4"
+  plugin:
+  - gtk
+version: "1.0"
+author: "rhenium"
+name: "sub_parts_voter_multiline"
+description: "sub_parts_voter を複数行で表示できるようになる"
